@@ -1,4 +1,11 @@
 .hello-world {
 	background: rgba(234, 234, 234, 1);
 	padding: 0.5rem 3rem 3rem 3rem;
+	border-radius: 0.8rem;
+}
+
+button {
+	background: rgba(37, 99, 171, 1);
+	color: white;
+	border-radius: 0.8rem;
 }
