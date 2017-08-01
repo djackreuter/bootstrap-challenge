@@ -59,16 +59,13 @@
 						<li><a href="#">Link 3</a></li>
 						<li><a href="#">Link 4</a></li>
 					</ul>
-					</li>
-					</ul>
-				</div><!-- /.navbar-collapse -->
-				</div><!-- /.container-fluid -->
+				</div><!-- /.container -->
 			</nav>
 		</header>
 		<!-- fix this class -->
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-10 col-md-offset-1">
 					<section class="hello-world">
 						<h1>Hello World!</h1>
 						<p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to
