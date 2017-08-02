@@ -74,10 +74,12 @@
 					</section>
 				</div> <!-- /.column -->
 			</div> <!-- /.row -->
+		</div><!-- /.container -->
+		<div class="container-fluid section-2">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-12 ">
 					<section class="col-md-12">
-						<img class="col-md-3" src="images/placeholder.jpg" alt="city picture"/>
+						<img class="col-md-2" src="images/placeholder.jpg" alt="city picture"/>
 						<p>Nunc vel felis at leo tempus ullamcorper id eu sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer neque lacus, tristique non commodo ut, efficitur ut nibh. Curabitur suscipit purus eu ex viverra, ac ornare tortor feugiat. Vivamus nulla magna, euismod sed convallis ac, rutrum a felis. Morbi sit amet sollicitudin orci. Aliquam erat volutpat. Curabitur faucibus nunc eu neque blandit gravida. Praesent et tellus hendrerit, lobortis mi ac, pulvinar nunc. Sed nec mauris luctus, consequat velit sed, gravida tellus. Pellentesque eu mollis augue. Cras vestibulum nunc nulla, non ornare risus viverra at. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In pulvinar, justo ac condimentum tempus, nisi libero porta justo, a ornare enim tortor et enim. Duis maximus, nisi non fermentum pulvinar, elit tellus pretium quam, ut varius tortor enim eu ex. Ut velit lacus, lacinia id enim sit amet, efficitur gravida erat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempus neque at varius ullamcorper. Integer vel magna in est pharetra tincidunt eu et ex. Nam sit amet quam cursus, auctor dolor et, ultrices ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat, libero ut congue ornare, dui velit fringilla metus, vitae blandit ligula mauris ac velit. Sed sed feugiat quam, ut molestie tellus. Vestibulum suscipit convallis sapien.</p>
 					</section>
 				</div>
