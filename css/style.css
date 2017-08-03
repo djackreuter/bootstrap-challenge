@@ -37,3 +37,11 @@ img {
 	margin-top: 5rem;
 }
 
+.bottom p {
+	border: 1px solid gray;
+	padding: 2rem;
+	background: lightgray;
+	border-radius: 4%;
+	margin-right: 4rem;
+}
+

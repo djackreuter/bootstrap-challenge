@@ -89,15 +89,22 @@
 			<div class="row">
 				<div class="col-md-3">
 					<img src="images/soccer.jpg" alt="soccer ball"/>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis, GOAL a fermentum congue,
+						justo enim placerat ipsum, sed malesuada libero nibh non nibh. Mauris tellus leo, egestas quis facilisis rhoncus, rutrum at enim.</p>
 				</div>
 				<div class="col-md-3">
 						<img class="image-circle" src="images/soccer.jpg" alt="soccer ball"/>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis, GOAL a fermentum congue, justo
+						enim placerat ipsum, sed malesuada libero nibh non nibh. Mauris tellus leo, egestas quis facilisis rhoncus, rutrum at enim.</p>
 				</div>
 				<div class="col-md-3">
 						<img src="images/soccer.jpg" alt="soccer ball"/>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis, GOAL a fermentum congue, justo
+						enim placerat ipsum, sed malesuada libero nibh non nibh. Mauris tellus leo, egestas quis facilisis rhoncus, rutrum at enim.</p>
 				</div>
 				<div class="col-md-3">
 						<img src="images/soccer.jpg" alt="soccer ball"/>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis, GOAL a fermentum congue, justo enim placerat ipsum, sed malesuada libero nibh non nibh. Mauris tellus leo, egestas quis facilisis rhoncus, rutrum at enim.</p>
 				</div>
 			</div>
 		</div>
