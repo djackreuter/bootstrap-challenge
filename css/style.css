@@ -21,9 +21,19 @@ h1 {
 	font-size: 6rem;
 }
 
+.city-pic {
+	 float: left;
+	 margin-right: 5rem;
+	 width: 210px;
+	 height: auto;
+ }
+
 img {
-	float: left;
-	margin-right: 5rem;
 	width: 210px;
 	height: auto;
 }
+
+.bottom {
+	margin-top: 5rem;
+}
+
